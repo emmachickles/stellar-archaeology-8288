@@ -1,0 +1,14 @@
+# Data are not part of this repository. Spectra, sessions and anything rendered from them stay local.
+data/
+print/
+deliver/
+*.fits
+*.fit
+*.smh
+*.npz
+*.csv
+*.txt
+*.png
+*.pdf
+.ipynb_checkpoints/
+__pycache__/
